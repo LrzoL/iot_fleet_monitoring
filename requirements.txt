@@ -1,0 +1,5 @@
+pandas==2.2.2       # Manipulação de dados
+faker==25.0.1       # Gerar dados falsos (sensores simulados)
+sqlite-utils==3.36  # Facilitar interação com SQLite
+schedule==1.2.1     # Agendar execuções (simular dados em tempo real)
+redis
